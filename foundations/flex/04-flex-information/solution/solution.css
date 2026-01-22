@@ -35,7 +35,7 @@ body {
   margin-bottom: 32px;
 }
 
-.container {
+.container { 
   display: flex;
   justify-content: center;
   gap: 52px;
