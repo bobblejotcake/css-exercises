@@ -12,6 +12,28 @@ img {
   font-weight: 900;
 }
 
+.titleFlex{
+  display:flex;
+  justify-content: center;
+  margin-bottom:32px;
+}
+
+.infoFlex{
+  display:flex;
+  justify-content: center;
+  flex-flow: row wrap;
+  gap:52px;
+}
+
+.infoBoxFlex{
+  display:flex;
+  flex-flow:column wrap;
+  justify-content: center;
+  align-items: center;
+  flex-basis: 200px;
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
